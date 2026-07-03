@@ -47,16 +47,22 @@ app(真玩家) -> 游戏世界(角色->还是玩家(只是干扰)) -> 意外性
 个人事件，思考算法对人的影响，已有观点的探讨，所以我的游戏theme（想探讨的点）& 让玩家的思考和反思
 bullet point
 
+个性 -> 同质化
 I moved couple of times between 2024 to 2026 due to visa-related situation. Because of that I had time (and excuse) to meet up with old friends as well as knowing new ones. The people I met came from different workplace, location and grow-up environments. However, when I talk to them... I feel so alike. Why?
 They have similar catchphrase, play same game as hobbies, browse similar internet culture content.
 Digital devices as the biggest end terminal for accessing to "the internet" that links everybody. The culture that influences us comes from video platforms, social medias, news and social games.
 Is there really free-will(free choice) left for people to become who they want around the algorithm behind the internet content?
 From Etienne Brown, Recommended Selves: Authenticity and Algorithmic Filtering.
+反思 -> 人的个性
+Frankfurt writes, "The person, in making a decision by which he identifies with a desire, constitutes himself."
+反思 -> 算法破坏 -> 人的个性也因为算法的趋同 -> 同质化
 Harry Gordon Frankfurt defined "first-order desires" are unreflective, "second-order desires" are those that we reflectively endorse. We often adopt a reflective and evaluative stance toward our spontaneous desires.
 To live authentic lives, we not only need to follow our second-order desires, but we must also understand what these desires are or construct the right ones by gathering self-knowledge.
-Frankfurt writes, "The person, in making a decision by which he identifies with a desire, constitutes himself."
+
 Etienne Brown states that a recommender system that merely considers behavioural signals cannot distinguish between these possibilities [of why someone watched a video]. Furthermore, it makes recommendations based on forms of behaviours that - like watch time or dwell time - are not the result of carefully considered decisions. When a flashy video catches my eye and I spend a few seconds viewing it, I do not reflectively endorse my decision to watch it.
-The purpose that a game wants to explore is that whether and how much recommendation feature(algorithm) changes a player's behaviours.
+我想要探索
+I want to explore whether and how much recommendation feature(algorithm) changes a player's behaviours.
+游戏如何探索
 The gameplay will design a default goal of winning. However, after the searching history, the game will show and push more options to them.
 It is player's decision to stick with their default or take the preference they received.
 
