@@ -65,9 +65,9 @@ Digital devices as the biggest end terminal for accessing to "the internet" that
 Is there really free-will(free choice) left for people to become who they want around the algorithm behind the internet content?
 From Etienne Brown, Recommended Selves: Authenticity and Algorithmic Filtering.
 反思 -> 人的个性
-Frankfurt writes, "The person, in making a decision by which he identifies with a desire, constitutes himself."
+Harry Gordon Frankfurt writes, "The person, in making a decision by which he identifies with a desire, constitutes himself."
 反思 -> 算法破坏 -> 人的个性也因为算法的趋同 -> 同质化
-Harry Gordon Frankfurt defined "first-order desires" are unreflective, "second-order desires" are those that we reflectively endorse. We often adopt a reflective and evaluative stance toward our spontaneous desires.
+Frankfurt defined "first-order desires" are unreflective, "second-order desires" are those that we reflectively endorse. We often adopt a reflective and evaluative stance toward our spontaneous desires.
 To live authentic lives, we not only need to follow our second-order desires, but we must also understand what these desires are or construct the right ones by gathering self-knowledge.
 
 Etienne Brown states that a recommender system that merely considers behavioural signals cannot distinguish between these possibilities [of why someone watched a video]. Furthermore, it makes recommendations based on forms of behaviours that - like watch time or dwell time - are not the result of carefully considered decisions. When a flashy video catches my eye and I spend a few seconds viewing it, I do not reflectively endorse my decision to watch it.
