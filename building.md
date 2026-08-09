@@ -89,12 +89,20 @@ Sunday Mass - Destress
 
 成为教徒后，每个月去走走也能降stress（一月一次！）
 
+- Food bank（如果失业）
+
 # Cinema
 
 +每月新作新闻 - 编后台故事!!
 
 # Park
 > Cherry Blossom - Every April & May
+
+(status - 有小孩子)
+>小孩子&父母 NPC route
+
+(status - 有宠物)
+>宠物parent NPC route
 
 +健康
 
@@ -110,21 +118,59 @@ Sunday Mass - Destress
 
 # City Hall
 
+结婚登记
+营业执照申请
+购置房产
+
+申请补贴 - lifestyle >=25
+
 # Museum
 
-# Post Office
+临时展会
+
+# Post Office with Convince Store(birthday & anniversary cards)
+
+邮政信箱（P.O. Box）租赁
+
+办护照?
 
 # Exhibition center
 
-# Harbour
+12种不同的展览
+
+1. 纺织服装
+2. 食品
+3. 宠物用品
+4. 美容养生
+5. 仿真花卉 & 场景布置
+6. 人形机器人 & 汽车
+7. 文娱创作
+8. 小商品联合
+9. 跨境电商
+10. 供应链
+11. 医药器材
 
 # Elementary School
 
+报名成为“教室妈妈/爸爸”——每周来帮忙批改作业、准备手工材料、组织班级派对
+
 # Courthouse
+
+民事纠纷
+姓名变更
+收养手续
+
+陪审团义务 - 触发相关的事件
 
 # Hardware / Home Improvement Store
 
-# Police & Fire Station
+打造属于自己的庭院
+
+bbq - invite friend and party
+summing pool - +健康
+gardening - 花花草草
+
+<!-- # Police & Fire Station -->
 -------------------------------------------------------
 
 # Food Truck Festival - every Sep & Oct
@@ -191,7 +237,6 @@ Bill system
 
 1. 房租 - 购入房子的option
 2. 电话费 - 卧槽要不要做消息系统
-3.
 
 -------------------------------------------------------
 
